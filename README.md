@@ -20,6 +20,7 @@ To design an Automated Reports Generator using Excel, we'll follow a structured 
    - Provide screenshots or illustrations to aid users in understanding the interface and functionalities.
 
 These deliverables will ensure clarity in design, implementation, and usage of the Automated Reports Generator. Following this structured approach will lead to a robust system that meets the objectives outlined in the problem statement, while also providing a user-friendly experience and adhering to security standards.
+
 **Test Plan and Test Cases:**
 
 **1. Testing Approach:**
